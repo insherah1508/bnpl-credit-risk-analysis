@@ -23,4 +23,4 @@ Public consumer lending dataset (Lending Club-style data).
 - Jupyter Notebook
 
 ## Status
-🚧 In Progress
+Completed
